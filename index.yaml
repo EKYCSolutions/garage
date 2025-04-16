@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  garage:
+  - apiVersion: v2
+    appVersion: v1.1.0
+    created: "2025-04-16T15:09:44.344644468Z"
+    description: S3-compatible object store for small self-hosted geo-distributed
+      deployments
+    digest: 916e019f0e651fcf0e4abb7eed75c6b7fc38d576f24436a85e78f75cea4c4ee4
+    name: garage
+    type: application
+    urls:
+    - https://EKYCSolutions.github.io/garage/garage-0.7.0.tgz
+    version: 0.7.0
+generated: "2025-04-16T15:09:44.343256637Z"
